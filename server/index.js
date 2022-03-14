@@ -15,6 +15,10 @@ app.use(cors())
 
 app.use('/posts', Posts)
 
+app.get('/',(req,res)=>{
+  res.send('Server running...!')
+})
+
 const PORT = process.env.PORT || 5000
 
 mongoose
