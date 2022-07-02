@@ -2,7 +2,7 @@
 
 ## Website link : https://memories-fullstack-app.netlify.app/
 
-## ![Memories App]()
+## ![Memories App](https://github.com/Souraevshing/Memories-mern-app/blob/main/memories-img.png)
 
 # Getting Started with Create React App
 
